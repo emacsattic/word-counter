@@ -11,6 +11,8 @@
 
 ;; Copyright (C) 2001-2002, Dr. Rafael Sepúlveda <drs@gnulinux.org.mx>
 
+;; License: GPL
+
 ;;   This program is free software; you can redistribute it and/or modify
 ;;   it under the terms of the GNU General Public License as published by
 ;;   the Free Software Foundation.
